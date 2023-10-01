@@ -1,3 +1,3 @@
 # password-generator
 Check it out
-https://himanshurelhan70.github.io/password-generator/
+https://kundan-raj301.github.io/passwordgenerator/
